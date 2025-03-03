@@ -477,6 +477,9 @@ section p:last-child {
 .skills {
     background-color: #ffffff;
 }
+.osscontributions{
+  background-color: #fffcd6;
+}
 .resume__item-links {
   letter-spacing: 1px;
   margin-top: 10px;
